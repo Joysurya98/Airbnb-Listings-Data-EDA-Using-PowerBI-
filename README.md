@@ -10,7 +10,12 @@ Source: Airbnb listings datasets for Chicago and New Orleans (cleaned and transf
 
 Content: Property details, price, reviews, host data, and neighborhood information
 
-## **Analytical Insights
+## Dashboard Preview:
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9cac5508-46f3-44b6-ac8c-9eab0911d1f1" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/de5486e5-bb88-4aea-9f67-813ebd872571" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4697fd85-826c-4490-b474-9f827533f421" />
+
+## Analytical Insights
 ### 1) Market Size & Engagement
 
 Chicago has more neighborhoods, hosts, and Airbnb properties than New Orleans.
@@ -98,12 +103,6 @@ Luxury Market Opportunity: Enhance luxury hotel options and services to capture 
 Empower Hosts: Collaborate with successful hosts and incentivize new hosts to replicate winning strategies.
 
 Investment Strategy: Support hosts with the highest engagement to enable growth and introduce innovative policies for both markets.
-
-## Dashboard Preview:
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/9cac5508-46f3-44b6-ac8c-9eab0911d1f1" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/de5486e5-bb88-4aea-9f67-813ebd872571" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4697fd85-826c-4490-b474-9f827533f421" />
-
 
 ## Getting Started
 
